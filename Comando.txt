@@ -1,0 +1,10 @@
+git clone https://github.com/ruivabo/angular.git
+ cd angular
+git add
+git commit -m "meu arquivo de comandos"
+git push
+git add .
+git status
+dir
+dir /a
+doskey /h >Comando.txt
